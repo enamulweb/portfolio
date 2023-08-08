@@ -30,15 +30,15 @@ function App() {
     <div className="flex flex-col items-center">
     <div className="avatar">
     <div className="w-32 rounded-full border-4 border-[#71797E] ring-offset-base-100  ring-offset-2">
-      <img src="https://i.ibb.co/j8dvmbs/profilepic.jpg" />
+      <img src="https://i.ibb.co/m6m6NCs/Whats-App-Image-2023-06-16-at-18-37-19.jpg" />
     </div>
   </div>
-  <p className="text-3xl text-left pt-4 font-extrabold">Samshul Islam </p>
+  <p className="text-3xl text-left pt-4 font-extrabold">Md Enamul </p>
   <div className="flex gap-4 mt-4 mb-4">
-      <span className="bg-black hover:bg-blue-800 border-4 border-[#71797E] rounded-full text-lg p-2"><a href="https://www.linkedin.com/in/shakileeecuet/" target="_blank"><FaLinkedinIn /></a></span>
-      <span className="bg-black hover:bg-blue-800 border-4 border-[#71797E] rounded-full text-lg p-2"><a href="https://github.com/Samshuleeecuet" target="_blank"><FaGithub/></a></span>
-      <span className="bg-black hover:bg-blue-800 border-4 border-[#71797E] rounded-full text-lg p-2"><a href='https://www.facebook.com/Shakil.EEE.CUET' target='_blank'><FaFacebookF/></a></span>
-      <span className="bg-black hover:bg-blue-800 border-4 border-[#71797E] rounded-full text-lg p-2"><a href="mailto:samshul2001@gmail.com" target="_blank"><FaEnvelope/></a></span>
+      <span className="bg-black hover:bg-blue-800 border-4 border-[#71797E] rounded-full text-lg p-2"><a href="https://www.linkedin.com/in/md-enamul-0671b3224/" target="_blank"><FaLinkedinIn /></a></span>
+      <span className="bg-black hover:bg-blue-800 border-4 border-[#71797E] rounded-full text-lg p-2"><a href="https://github.com/enamulweb" target="_blank"><FaGithub/></a></span>
+      <span className="bg-black hover:bg-blue-800 border-4 border-[#71797E] rounded-full text-lg p-2"><a href='' target='_blank'><FaFacebookF/></a></span>
+      <span className="bg-black hover:bg-blue-800 border-4 border-[#71797E] rounded-full text-lg p-2"><a href="mailto:enamul9401y@gmail.com" target="_blank"><FaEnvelope/></a></span>
 
   </div>
     </div> 

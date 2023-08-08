@@ -30,7 +30,7 @@ const Portfolio = () => {
                         <div className='project-card-border absolute w-full bottom-4'>
                             <div className='h-12 flex'>
                                 <div className='bg-[#20a8c1] h-full w-1/2 flex justify-center items-center border-r-2'>
-                                    <a href="https://github.com/Samshuleeecuet/LanguageCenter" target="_blank" rel="noopener noreferrer"><FaGithub className='text-white'/></a>
+                                    <a href="https://github.com/enamulweb/languageCentre" target="_blank" rel="noopener noreferrer"><FaGithub className='text-white'/></a>
                                 </div>
                                 <div className='bg-[#20a8c1] h-full w-1/2 flex justify-center items-center border-r-2'>
                                     <a href="https://languagecenter-33d13.web.app/" target="_blank" rel="noopener noreferrer"><FaLink className='text-white'/></a>
@@ -52,7 +52,7 @@ const Portfolio = () => {
                         <div className='project-card-border absolute w-full bottom-4'>
                             <div className='h-12 flex'>
                                 <div className='bg-[#20a8c1] h-full w-1/2 flex justify-center items-center border-r-2'>
-                                    <a href="https://github.com/Samshuleeecuet/Learn-with-toys" target="_blank" rel="noopener noreferrer"><FaGithub className='text-white'/></a>
+                                    <a href="https://github.com/enamulweb/toyMarket" target="_blank" rel="noopener noreferrer"><FaGithub className='text-white'/></a>
                                 </div>
                                 <div className='bg-[#20a8c1] h-full w-1/2 flex justify-center items-center border-r-2'>
                                     <a href="https://learn-with-toys.web.app/" target="_blank" rel="noopener noreferrer"><FaLink className='text-white'/></a>
@@ -77,7 +77,7 @@ const Portfolio = () => {
                         <div className='project-card-border absolute w-full bottom-4'>
                             <div className='h-12 flex'>
                                 <div className='bg-[#20a8c1] h-full w-1/2 flex justify-center items-center border-r-2'>
-                                    <a href="https://github.com/Samshuleeecuet/printInfo" target="_blank" rel="noopener noreferrer"><FaGithub className='text-white'/></a>
+                                    <a href="https://github.com/enamulweb/printInfo" target="_blank" rel="noopener noreferrer"><FaGithub className='text-white'/></a>
                                 </div>
                                 <div className='bg-[#20a8c1] h-full w-1/2 flex justify-center items-center border-r-2'>
                                     <a href="https://printinfo-846d5.web.app/" target="_blank" rel="noopener noreferrer"><FaLink className='text-white'/></a>

@@ -8,14 +8,14 @@ import {FaFilePdf} from 'react-icons/fa';
 const Home = () => {
   const handleDownload = () => {
     // Fetch the PDF file from the server or use a local file
-    const fileUrl = '/Resume-of-Samshul-Islam.pdf';
+    const fileUrl = '/public/Enamul resume.pdf';
   
     // Fetch the file using an AJAX request or any method of your choice
     fetch(fileUrl)
       .then((response) => response.blob())
       .then((blob) => {
         // Save the file using FileSaver.js
-        saveAs(blob, 'Resume-of-Samshul-Islam.pdf');
+        saveAs(blob, 'Enamul resume.pdf');
       })
       .catch((error) => {
         console.error('Error occurred while downloading the PDF:', error);
@@ -23,11 +23,11 @@ const Home = () => {
   };
     return (
         <div id='homepage' className='min-h-screen flex flex-col justify-center items-center -mt-2 -ml-2'>
-            <p className='text-3xl lg:text-5xl font-bold text-white font-mono'>Samshul Islam</p><br/>
+            <p className='text-3xl lg:text-5xl font-bold text-white font-mono'>Md Enamul </p><br/>
             <p className=' lg:text-3xl text-white font-mono'>I'm <TypeAnimation
       sequence={[
         // Same substring at the start will only be typed out once, initially
-        'Electrical & Electronics Engineering Student.',
+        'an Electrical & Electronics Engineering Student.',
         1000, // wait 1s before replacing "Mice" with "Hamsters"
         'MERN Stack Developer.',
         1000,

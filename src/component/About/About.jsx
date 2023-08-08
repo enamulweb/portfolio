@@ -20,20 +20,20 @@ const About = () => {
                     <p>I'm a native MERN stack developer. I also like to work with Arduino, Matlab.</p>
                     <ul className='mt-10 font-mono'>
                         <li><p className='flex items-center'><FaGraduationCap className='text-blue-800 text-5xl mr-2'/> Studing Electrical & Electronic Engineering at Chittagong University of Engineering & Technology</p></li>
-                        <li><p className='flex items-center'><FaPhone className='text-blue-800 lg:text-3xl mr-4 mt-2'/> +8801816244741</p></li>
-                        <li><p className='flex items-center'><FaEnvelope className='text-blue-800 lg:text-3xl mr-4 mt-2'/>samshul2001@gmail.com</p></li>
+                        <li><p className='flex items-center'><FaPhone className='text-blue-800 lg:text-3xl mr-4 mt-2'/> +8801794019401</p></li>
+                        <li><p className='flex items-center'><FaEnvelope className='text-blue-800 lg:text-3xl mr-4 mt-2'/>enamul9401y@gmail.com</p></li>
                         <li><p className='flex items-center'><FaSearchLocation className='text-blue-800 lg:text-3xl mr-4 mt-2'/>Chittagong, Bangladesh</p></li>
                     </ul>
                 </div>
                 <div className='flex justify-center mt-5 lg:mt-0'>
-                    <img className='h-56 rounded-full' src="https://i.ibb.co/QCCwtp9/2020-03-07-at-4-17-09-PM.jpg" alt="" />
+                    <img className='h-56 rounded-full' src="https://i.ibb.co/6tyZn0K/Whats-App-Image-2023-08-08-at-22-47-04.jpg" alt="" />
                 </div>
             </div>
             <div className="flex justify-center gap-4 mt-4 p-4 mb-4">
                 <span className=" hover:bg-blue-800 hover:text-white border-4 border-[#71797E] rounded-full text-blue-900 text-3xl p-2"><a href='https://www.linkedin.com/in/shakileeecuet/' target='_blank'><FaLinkedinIn /></a></span>
-                <span className=" hover:bg-blue-800 hover:text-white border-4 border-[#71797E] rounded-full text-blue-900 text-3xl p-2"><a href='https://github.com/Samshuleeecuet' target='_blank'><FaGithub/></a></span>
+                <span className=" hover:bg-blue-800 hover:text-white border-4 border-[#71797E] rounded-full text-blue-900 text-3xl p-2"><a href='https://github.com/enamulweb' target='_blank'><FaGithub/></a></span>
                 <span className=" hover:bg-blue-800 hover:text-white border-4 border-[#71797E] rounded-full text-blue-900 text-3xl p-2"><a href='https://www.facebook.com/Shakil.EEE.CUET' target='_blank'><FaFacebookF/></a></span>
-                <span className=" hover:bg-blue-800 hover:text-white border-4 border-[#71797E] rounded-full text-blue-900 text-3xl p-2"><a href="mailto:samshul2001@gmail.com" target="_blank"><FaEnvelope/></a></span>
+                <span className=" hover:bg-blue-800 hover:text-white border-4 border-[#71797E] rounded-full text-blue-900 text-3xl p-2"><a href="mailto:enamul9401y@gmail.com" target="_blank"><FaEnvelope/></a></span>
             </div>
             </div>
             <div className='bg-[#f5f8fd] p-8'>

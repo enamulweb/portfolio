@@ -30,7 +30,7 @@ const Contact = () => {
                     </div>
                     <div>
                         <p className='text-2xl font-semibold'>Location:</p>
-                        <p className='font-thin'>Room No. 106, Shaheed Mohammad Shah Hall, CUET</p>
+                        <p className='font-thin'>Room No. 325, Shaheed Mohammad Shah Hall, CUET</p>
                     </div>
                 </div>
                 <div className='flex items-center gap-4 mt-2 contactlist'>
@@ -39,7 +39,7 @@ const Contact = () => {
                     </div>
                     <div>
                         <p className='text-2xl font-semibold'>Email:</p>
-                        <p className='font-thin'>samshul2001@gmail.com</p>
+                        <p className='font-thin'>enamul9401y@gmail.com</p>
                     </div>
                 </div>
                 <div className='flex items-center gap-4 mt-2 contactlist'>
@@ -48,7 +48,7 @@ const Contact = () => {
                     </div>
                     <div>
                         <p className='text-2xl font-semibold'>Call:</p>
-                        <p className='font-thin'>+8801816244741</p>
+                        <p className='font-thin'>+8801794019401</p>
                     </div>
                 </div>
                 <div>
