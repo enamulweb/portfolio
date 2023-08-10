@@ -8,14 +8,14 @@ import {FaFilePdf} from 'react-icons/fa';
 const Home = () => {
   const handleDownload = () => {
     // Fetch the PDF file from the server or use a local file
-    const fileUrl = '/public/Enamul resume.pdf';
+    const fileUrl = '/public/My Resume.pdf';
   
     // Fetch the file using an AJAX request or any method of your choice
     fetch(fileUrl)
       .then((response) => response.blob())
       .then((blob) => {
         // Save the file using FileSaver.js
-        saveAs(blob, 'Enamul resume.pdf');
+        saveAs(blob, 'My Resume.pdf');
       })
       .catch((error) => {
         console.error('Error occurred while downloading the PDF:', error);
